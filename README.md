@@ -1,6 +1,6 @@
 ![logo](https://github.com/Khurram-Devs/Khurram-Devs/blob/main/git%20banner.png)
 <h1 align="center">Hi 👋, I'm Khurram Iqbal</h1>
-<h3 align="center">A Successful Freelancer from Pakistan</h3>
+<h3 align="center">A Successful Developer from Pakistan</h3>
 
 <img align="right" alt="coding" width="500" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xgkh8sjely5xlxf525v5oantwyzt62xf3cqwfbpr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
