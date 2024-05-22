@@ -1,6 +1,6 @@
 ![logo](https://github.com/Khurram-Devs/Khurram-Devs/blob/main/git%20banner.png)
 <h1 align="center">Hi 👋, I'm Khurram Iqbal</h1>
-<h3 align="center">A Successful Developer from Pakistan</h3>
+<h3 align="center">A Web App Developer</h3>
 
 <img align="right" alt="coding" width="500" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47xgkh8sjely5xlxf525v5oantwyzt62xf3cqwfbpr&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React.js, Backend Development and Machine Learning**
 
-- 👯 I’m looking clients **for Frontend Development, UI/UX Designing, Graphics Designing or Video/Photo Editing**
+- 👯 I’m looking clients **for Fullstact Development, UI/UX Designing, Graphics Designing or Video/Photo Editing**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/khurramiqbal](https://linktr.ee/khurramiqbal)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, Tailwind, PHP, C#**
 
 - 📫 How to reach me **ikhurram765@gmail.com**
 
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khurram-iqbal-developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khurram-iqbal-developer" height="30" width="40" /></a>
-<a href="https://codepen.io/khurramiqbal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="khurramiqbal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khurram-iqbal-developer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khurram-iqbal-developer" height="30" width="40" /></a>
+<a href="https://codepen.io/khurramiqbal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="khurramiqbal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
