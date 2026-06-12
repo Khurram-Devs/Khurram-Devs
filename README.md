@@ -12,7 +12,7 @@
 
 - 👯 I’m looking clients **for Fullstact Development, UI/UX Designing, Graphics Designing or Video/Photo Editing**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/khurramiqbal](https://linktr.ee/khurramiqbal)
+- 👨‍💻 All of my projects are available at [Linkedin]([https://linktr.ee/khurramiqbal](https://www.linkedin.com/in/khurramiqbaldev/))
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React, Tailwind, PHP, C#**
 
