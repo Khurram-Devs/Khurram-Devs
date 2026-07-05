@@ -47,7 +47,17 @@
 ## ⌨️ Monkeytype
 
 <!-- MONKEYTYPE_STATS_START -->
-Loading...
+
+## ⌨️ Monkeytype Stats
+
+⚡ 15s PB: **83.24 WPM** (100.00%)
+
+⚡ 30s PB: **67.99 WPM** (97.14%)
+
+⚡ 60s PB: **67.79 WPM** (95.76%)
+
+_Last Updated: Sun, 05 Jul 2026 12:01:41 GMT_
+
 <!-- MONKEYTYPE_STATS_END -->
 
 ...
