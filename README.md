@@ -40,5 +40,14 @@
 
 <p><img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=khurram-devs&" alt="khurram-devs" /></p>
 
-
 <p><img width="60%" src="https://github-readme-stats.vercel.app/api?username=khurram-devs&show_icons=true&locale=en" alt="khurram-devs" /></p>
+
+...
+
+## ⌨️ Monkeytype
+
+<!-- MONKEYTYPE_STATS_START -->
+Loading...
+<!-- MONKEYTYPE_STATS_END -->
+
+...
