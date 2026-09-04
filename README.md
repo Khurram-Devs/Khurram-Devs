@@ -70,7 +70,7 @@ Live speed-typing stats, auto-updated hourly straight from the Monkeytype API �
 
 <!-- MONKEYTYPE_STATS_START -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Khurram-Devs/Khurram-Devs/main/assets/monkeytype-card.svg?v=1788545738627" alt="Gold tier — 60s PB 67.79 WPM, 0-day streak" width="900"/>
+  <img src="https://raw.githubusercontent.com/Khurram-Devs/Khurram-Devs/main/assets/monkeytype-card.svg?v=1788556861153" alt="Gold tier — 60s PB 67.79 WPM, 1-day streak" width="900"/>
 </div>
 <!-- MONKEYTYPE_STATS_END -->
 
