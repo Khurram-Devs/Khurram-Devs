@@ -1,0 +1,73 @@
+# Self-hosted replacement for github-readme-stats / streak-stats / activity-graph /
+# profile-trophy, whose shared public Vercel instances are currently rate-limited /
+# paused (see anuraghazra/github-readme-stats#4661, #4748). This renders equivalent
+# SVGs via GitHub Actions and commits them into this repo, removing the third-party
+# runtime dependency entirely.
+#
+# One-time setup required:
+#   Settings > Secrets and variables > Actions > New repository secret
+#   Name: METRICS_TOKEN
+#   Value: a classic PAT with scopes: repo, read:user (read:org optional)
+
+name: Update Profile Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Overview (replaces GitHub Stats card)
+        if: always()
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-overview.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: "repositories, community"
+
+      - name: Languages (replaces Top Languages card)
+        if: always()
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: percentage
+
+      - name: Activity + streak (replaces Streak Stats + Activity Graph)
+        if: always()
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Achievements (replaces GitHub Trophies)
+        if: always()
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
