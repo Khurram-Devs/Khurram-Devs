@@ -335,7 +335,7 @@ I spend a fair amount of time speedrunning [Monkeytype](https://monkeytype.com).
 
 <p align="center">
   <a href="https://github.com/Khurram-Devs"><img src="https://img.shields.io/badge/GitHub-Khurram--Devs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/khurram-iqbal-developer"><img src="https://img.shields.io/badge/LinkedIn-Khurram%20Iqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/khurramiqbaldev/"><img src="https://img.shields.io/badge/LinkedIn-Khurram%20Iqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ikhurram765@gmail.com"><img src="https://img.shields.io/badge/Email-ikhurram765%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
