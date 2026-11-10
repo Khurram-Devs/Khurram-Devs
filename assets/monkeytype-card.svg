@@ -1,6 +1,6 @@
 <svg viewBox="0 0 920 400" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>Monkeytype Stats</title>
-  <desc>15s PB 83.24 WPM, 30s PB 67.99 WPM, 60s PB 67.79 WPM, Gold tier, 0-day streak.</desc>
+  <desc>15s PB 85.54 WPM, 30s PB 67.99 WPM, 60s PB 67.79 WPM, Gold tier, 1-day streak.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#0d1117"/>
@@ -28,9 +28,9 @@
   <text x="30" y="82" font-size="12" font-weight="700" fill="#e6edf3">LVL 7</text>
   <rect x="110" y="76" width="780" height="10" rx="5" fill="#21262d"/>
   <rect x="110" y="76" width="0" height="10" rx="5" fill="url(#xpFill)">
-    <animate attributeName="width" from="0" to="144" dur="1s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+    <animate attributeName="width" from="0" to="204" dur="1s" begin="0s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
   </rect>
-  <text x="890" y="90" text-anchor="end" font-size="11" fill="#8b949e">192 tests played • 66% to Platinum</text>
+  <text x="890" y="90" text-anchor="end" font-size="11" fill="#8b949e">197 tests played • 78% to Platinum</text>
 
   
     <rect x="30" y="112" width="273.3333333333333" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
@@ -40,21 +40,21 @@
       <circle cx="263.3333333333333" cy="150" r="22" stroke="#21262d" stroke-width="5" fill="none"/>
       <circle cx="263.3333333333333" cy="150" r="22" stroke="#ffd700" stroke-width="5" fill="none"
         stroke-linecap="round" stroke-dasharray="138.23007675795088" stroke-dashoffset="138.23007675795088">
-        <animate attributeName="stroke-dashoffset" from="138.23007675795088" to="0"
+        <animate attributeName="stroke-dashoffset" from="138.23007675795088" to="4.93481374025884"
           dur="0.9s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
       </circle>
     </g>
-    <text x="263.3333333333333" y="154" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">100%</text>
+    <text x="263.3333333333333" y="154" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">96%</text>
 
-    <text x="48" y="190" font-size="36" font-weight="800" fill="#ffd700">83.24</text>
+    <text x="48" y="190" font-size="36" font-weight="800" fill="#ffd700">85.54</text>
     <text x="48" y="208" font-size="11" letter-spacing="1" fill="#8b949e">WPM</text>
 
     <rect x="48" y="224" width="237.33333333333331" height="8" rx="4" fill="#21262d"/>
     <rect x="48" y="224" width="0" height="8" rx="4" fill="#ffd700">
-      <animate attributeName="width" from="0" to="131.70417777777774" dur="0.9s" begin="0.1s"
+      <animate attributeName="width" from="0" to="135.34328888888888" dur="0.9s" begin="0.1s"
         fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
     </rect>
-    <text x="48" y="248" font-size="10" fill="#8b949e">Consistency 81%</text>
+    <text x="48" y="248" font-size="10" fill="#8b949e">Consistency 84%</text>
   
 
     <rect x="323.3333333333333" y="112" width="273.3333333333333" height="150" rx="14" fill="#161b22" stroke="#30363d"/>
@@ -112,9 +112,9 @@
         <text x="64" y="321" font-size="10" font-weight="600" fill="#fff">Speed Demon</text>
       
 
-        <rect x="204" y="300" width="164" height="32" rx="16" fill="#ffd70022" stroke="#ffd700"/>
+        <rect x="204" y="300" width="164" height="32" rx="16" fill="#21262d" stroke="#30363d"/>
         <text x="218" y="321" font-size="14">🎯</text>
-        <text x="238" y="321" font-size="10" font-weight="600" fill="#fff">Sharpshooter</text>
+        <text x="238" y="321" font-size="10" font-weight="600" fill="#484f58">Sharpshooter</text>
       
 
         <rect x="378" y="300" width="164" height="32" rx="16" fill="#21262d" stroke="#30363d"/>
@@ -132,7 +132,7 @@
         <text x="760" y="321" font-size="10" font-weight="600" fill="#484f58">Diamond Tier</text>
       
 
-  <text x="30" y="372" font-size="13" font-weight="700" fill="#f97316">🔥 0-day streak</text>
+  <text x="30" y="372" font-size="13" font-weight="700" fill="#f97316">🔥 1-day streak</text>
   <text x="230" y="372" font-size="12" fill="#8b949e">⏱ 1.4h typed</text>
-  <text x="890" y="368" text-anchor="end" font-size="10" fill="#484f58">Updated Mon, 09 Nov 2026 15:58:10 GMT</text>
+  <text x="890" y="368" text-anchor="end" font-size="10" fill="#484f58">Updated Tue, 10 Nov 2026 00:09:12 GMT</text>
 </svg>
