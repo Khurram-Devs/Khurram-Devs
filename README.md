@@ -323,7 +323,7 @@ I spend a fair amount of time speedrunning [Monkeytype](https://monkeytype.com).
 
 <!-- MONKEYTYPE_STATS_START -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Khurram-Devs/Khurram-Devs/main/assets/monkeytype-card.svg?v=1795350406053" alt="Gold tier — 60s PB 67.79 WPM, 1-day streak" width="900"/>
+  <img src="https://raw.githubusercontent.com/Khurram-Devs/Khurram-Devs/main/assets/monkeytype-card.svg?v=1795378552540" alt="Gold tier — 60s PB 67.79 WPM, 1-day streak" width="900"/>
 </div>
 <!-- MONKEYTYPE_STATS_END -->
 
